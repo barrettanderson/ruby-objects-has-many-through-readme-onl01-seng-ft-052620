@@ -23,7 +23,7 @@ class Customer
       meal.waiter
     end
   end
-      
+
 
   def new_meal(waiter, total, tip=0)
 
